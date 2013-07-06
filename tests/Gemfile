@@ -1,0 +1,9 @@
+source :rubygems
+source "http://rubygems.org" 
+#gem "sinatra"
+#gem "shotgun"
+gem "cucumber"
+gem "capybara"
+gem "rspec"
+gem "rake"
+#gem 'selenium-webdriver', '~>2.31.0'
