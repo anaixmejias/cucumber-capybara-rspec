@@ -2,7 +2,7 @@
 set -o errexit
 
 #Move to portal test dir
-cd Entry\ -\ Form\ PROD/tests
+cd EntryFormPROD/tests
 #Make sure we have up to date gems installed as specified in Gemfile.lock
 bundle install
 #Run the tests
