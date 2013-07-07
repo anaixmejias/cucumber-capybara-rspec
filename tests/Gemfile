@@ -6,4 +6,5 @@ gem "cucumber"
 gem "capybara"
 gem "rspec"
 gem "rake"
+gem "poltergeist"
 #gem 'selenium-webdriver', '~>2.31.0'
