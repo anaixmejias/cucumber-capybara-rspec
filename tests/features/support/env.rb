@@ -13,4 +13,4 @@ end
 
 Capybara.javascript_driver = :poltergeist
 
-
+Capybara.app_host = "127.0.0.1"

@@ -1,5 +1,5 @@
 Given(/^I am on "(.*?)"$/) do |arg1|
-  visit "http://localhost/~anaixmejias/entry-form/app/"
+  visit "/app"
 end
 
 Then(/^I should see "(.*?)"$/) do |text|

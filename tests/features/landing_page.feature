@@ -1,4 +1,4 @@
-@javascript
+#@javascript
 Feature: Viewer visits the Home Page
   In order to read the page
   As a viewer
@@ -43,10 +43,10 @@ Feature: Viewer visits the Home Page
 
   Scenario: Search for a term
     
-    Given I am on youtube
-    When I fill in "search_query" with "text adventure"
-    And I click "search-btn"
-    Then I should see "GET LAMP: The Text Adventure Documentary"
+    #Given I am on youtube
+    #When I fill in "search_query" with "text adventure"
+    #And I click "search-btn"
+    #Then I should see "GET LAMP: The Text Adventure Documentary"
 
   Scenario: Searching for a term
 
