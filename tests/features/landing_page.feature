@@ -1,4 +1,4 @@
-#@javascript
+@javascript
 Feature: Viewer visits the Home Page
   In order to read the page
   As a viewer
